@@ -24,6 +24,27 @@ const products = [
     price: 3.49,
     image: "https://images.unsplash.com/photo-1665889950448-7d17aa579414?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxvcmdhbmljJTIwc3BpbmFjaHxlbnwwfHx8fDE3MTA3NjIxNzR8MA&ixlib=rb-4.0.3&q=80&w=1080",
   },
+  {
+    id: 4,
+    name: "Organic Bananas",
+    description: "Sweet, ripe, and perfect for snacking.",
+    price: 1.49,
+    image: "https://images.unsplash.com/photo-1603052875302-d376b7c0638a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxvcmdhbmljJTIwYmFuYW5hc3xlbnwwfHx8fDE3MTA3NjIxNzR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+  },
+  {
+    id: 5,
+    name: "Organic Kale",
+    description: "Nutrient-dense, crisp, and versatile.",
+    price: 2.99,
+    image: "https://images.unsplash.com/photo-1524179091875-bf99a9a6af57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxvcmdhbmljJTIwa2FsZXxlbnwwfHx8fDE3MTA3NjIxNzR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+  },
+  {
+    id: 6,
+    name: "Organic Tomatoes",
+    description: "Juicy, flavorful, and perfect for salads.",
+    price: 3.99,
+    image: "https://images.unsplash.com/photo-1582284540020-8acbe03f4924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxvcmdhbmljJTIwdG9tYXRvZXN8ZW58MHx8fHwxNzEwNzYyMTc0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+  },
 ];
 
 const Index = () => {
